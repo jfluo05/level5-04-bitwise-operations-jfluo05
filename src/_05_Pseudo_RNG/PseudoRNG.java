@@ -10,7 +10,7 @@ public class PseudoRNG {
 	 */
 	
 	//1. Create a member variable of type long called "seed"
-	
+	long seed;
 	//2. Make a constructor that initializes the memeber variable
 	
 	//3. Complete the steps inside the xorShift method
